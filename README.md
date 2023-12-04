@@ -1,4 +1,4 @@
-# BLOOM - Quantized Inference and QLoRA Finetuning on Nvidia T4
+# BLOOM - Quantized Inference + QLoRA Finetuning on T4
 
 ## Inference
 
